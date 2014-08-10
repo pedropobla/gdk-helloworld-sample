@@ -1,0 +1,12 @@
+# Ignore every hidden file, except .gitignore
+.*
+!.gitignore
+
+# Ignore the project properties
+project.properties
+
+# Ignore binaries
+bin/*
+
+# Ignore generated files
+gen/*
